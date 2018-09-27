@@ -1,0 +1,9 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\bin\Debug\calculator dandy.exe.config
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\bin\Debug\calculator dandy.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\bin\Debug\calculator dandy.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator dandy.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator_dandy.Form1.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator_dandy.Properties.Resources.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator dandy.csproj.GenerateResource.Cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator dandy.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\dandy\calculator dandy\calculator dandy\obj\Debug\calculator dandy.pdb
